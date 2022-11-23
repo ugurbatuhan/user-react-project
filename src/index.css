@@ -1,0 +1,14 @@
+*{
+    margin: 2px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+.userList{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.singleUser{
+    display: flex;
+    align-items: center;
+}
